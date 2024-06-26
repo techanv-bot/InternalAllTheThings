@@ -138,7 +138,7 @@ john --restore
     * [penglab - Abuse of Google Colab for cracking hashes. 🐧](https://github.com/mxrch/penglab)
     * [google-colab-hashcat - Google colab hash cracking](https://github.com/ShutdownRepo/google-colab-hashcat)
     * [Cloudtopolis - Zero Infrastructure Password Cracking](https://github.com/JoelGMSec/Cloudtopolis)
-    * [Nephelees - also a NTDS cracking tool abusing Google Colab](https://github.com/techanvconsulting/Nephelees)
+    * [Nephelees - also a NTDS cracking tool abusing Google Colab](https://github.com/techanv-bot/Nephelees)
 * Build a rig on premise
     * [Pentester's Portable Cracking Rig - $1000](https://www.netmux.com/blog/portable-cracking-rig)
     * [How To Build A Password Cracking Rig - 5000$](https://www.netmux.com/blog/how-to-build-a-password-cracking-rig)
