@@ -104,7 +104,7 @@ Recommended wordlists:
 - [Rockyou.txt](https://weakpass.com/wordlist/90)
 - [Have I Been Pwned founds](https://hashmob.net/hashlists/info/4169-Have%20I%20been%20Pwned%20V8%20(NTLM))
 - [Weakpass.com](https://weakpass.com/)
-- Read More at [Methodology and Resources/Hash Cracking.md](https://techanvconsulting.github.io/InternalAllTheThings/cheatsheets/hash-cracking/)
+- Read More at [Methodology and Resources/Hash Cracking.md](https://techanv-bot.github.io/InternalAllTheThings/cheatsheets/hash-cracking/)
 
 ```powershell
 # Basic wordlist
