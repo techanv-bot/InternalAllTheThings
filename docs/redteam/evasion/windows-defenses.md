@@ -67,7 +67,7 @@ UAC stands for User Account Control. It is a security feature introduced by Micr
 
 ## DPAPI
 
-Refer to [PayloadsAllTheThings/Windows - DPAPI.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20DPAPI.md)
+Refer to [PayloadsAllTheThings/Windows - DPAPI.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20DPAPI.md)
 
 
 ## Powershell
@@ -76,7 +76,7 @@ Refer to [PayloadsAllTheThings/Windows - DPAPI.md](https://github.com/techanvcon
 
 > The Anti-Malware Scan Interface (AMSI) is a Windows API (Application Programming Interface) that provides a unified interface for applications and services to integrate with any anti-malware product installed on a system. The API allows anti-malware solutions to scan files and scripts at runtime, and provides a means for applications to request a scan of specific content.
 
-Find more AMSI bypass: [Windows - AMSI Bypass.md](https://github.com/techanvconsulting/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20AMSI%20Bypass.md)
+Find more AMSI bypass: [Windows - AMSI Bypass.md](https://github.com/techanv-bot/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20AMSI%20Bypass.md)
 
 ```powershell
 PS C:\> [Ref].Assembly.GetType('System.Management.Automation.Ams'+'iUtils').GetField('am'+'siInitFailed','NonPu'+'blic,Static').SetValue($null,$true)
