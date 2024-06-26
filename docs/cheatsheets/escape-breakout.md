@@ -26,7 +26,7 @@
 
 - Display global variables and their permissions: `export -p`
 - Switch to another user using `sudo`/`su`
-- Basic privilege escalations such as CVE, sudo misconfiguration, etc. Comprehensive list at [Linux](https://techanvconsulting.github.io/InternalAllTheThings/redteam/escalation/linux-privilege-escalation/) / [Windows](https://techanvconsulting.github.io/InternalAllTheThings/redteam/escalation/windows-privilege-escalation/)
+- Basic privilege escalations such as CVE, sudo misconfiguration, etc. Comprehensive list at [Linux](https://techanv-bot.github.io/InternalAllTheThings/redteam/escalation/linux-privilege-escalation/) / [Windows](https://techanv-bot.github.io/InternalAllTheThings/redteam/escalation/windows-privilege-escalation/)
 - List default commands in the restricted shell: `compgen -c`
 - Container escape if it's running inside a `Docker`/`LXC` container
 - Pivot onto the network
